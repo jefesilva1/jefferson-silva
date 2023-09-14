@@ -13,3 +13,5 @@ Estou atualmente em processo de construção de um portfólio, demonstrando minh
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jefesilva1&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
